@@ -1,2 +1,2 @@
 # Codsoft
-This repository is particularly include tasks/ projects assigned during remote data science internship at codsoft
+This task include the usage of Logistic Regression Algorithm for model training based on titanic dataset for survvial prediction of passengers. 
